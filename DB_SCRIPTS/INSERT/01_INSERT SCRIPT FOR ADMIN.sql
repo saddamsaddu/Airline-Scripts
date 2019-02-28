@@ -1,0 +1,5 @@
+INSERT INTO AR_LOGIN(USERNAME,PASSWORD,USERTYPE,ISACTIVE) VALUES ('admin','admin','0','1')
+
+INSERT INTO AR_REGISTRATION VALUES('1','Mr.','Admin','M','admin@gmail.com','12345','12345','123456','12345','gssad')
+
+INSERT INTO maxflightidgen VALUES('0106')
